@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(28, 25, 25);
+    padding: 10px;
+}
+.logo{
+
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+.list{
+    width: 100%;
+    height:50px;
+    background-color: red;
+    border: 1px solid black;
+}
+.liist{
+    margin: 10px 15% ;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: large
+}
+.left-side{
+    margin-left: 15%;
+    width: 50%;
+    height: 500px;
+    background-color: blue;
+}
+.top-left{
+    
+}
